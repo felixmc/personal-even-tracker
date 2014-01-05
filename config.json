@@ -1,0 +1,11 @@
+{
+	"web_server": {
+		"port": 3002
+	},
+	"database" : {
+		"host": "localhost",
+		"user": "",
+		"password": "",
+		"database": ""
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Personal Event Tracker",
+	"version": "0.1.0",
+	"description": "Simple web app for keeping track of events.",
+	"dependencies": {
+		"express": "3.4.5",
+		"custom-logger": "0.2.1",
+		"mysql": "2.0.0-rc1"
+	}
+}
